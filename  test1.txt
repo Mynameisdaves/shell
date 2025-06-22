@@ -1,0 +1,13 @@
+total 56
+-rwxrwxrwx 1 ddd ddd    95 Jun  6 09:15  sample.txt
+-rwxrwxrwx 1 ddd ddd     0 Jun  6 11:25  test1.txt
+drwxrwxrwx 1 ddd ddd   512 Jun  6 11:25 .
+drwxrwxrwx 1 ddd ddd   512 Jun  5 23:44 ..
+drwxrwxrwx 1 ddd ddd   512 May 31 23:25 .git
+-rwxrwxrwx 1 ddd ddd    15 Apr 28 23:03 .gitignore
+drwxrwxrwx 1 ddd ddd   512 Apr 30 11:34 .vscode
+-rwxrwxrwx 1 ddd ddd   147 May 31 22:47 Makefile
+-rwxrwxrwx 1 ddd ddd   841 May 31 21:17 README.md
+-rwxrwxrwx 1 ddd ddd 32088 Jun  6 11:13 icsh
+-rwxrwxrwx 1 ddd ddd 16997 Jun  6 10:33 icsh.c
+-rwxrwxrwx 1 ddd ddd    53 Jun  6 11:17 start.sh
